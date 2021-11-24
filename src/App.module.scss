@@ -1,0 +1,10 @@
+.scss-component {
+  .box {
+    width: 200px;
+    text-align: center;
+    background: red;
+    &:hover {
+      background: green;
+    }
+  }
+}
